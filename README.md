@@ -16,4 +16,4 @@ Clouds Providers: AWS, DigitalOcean, Azure
  
 ### Find me here too:
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](http://linkedin.com/in/marjorie-sanchez-bab6b466)
