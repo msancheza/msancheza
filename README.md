@@ -7,10 +7,10 @@ Database: Postgress, SQL, FirebaseDB Realtime.
 
 Clouds Providers: AWS, DigitalOcean, Azure
 
-* I'm currently exploring AI projects, creating a learning lab and  learning new technologies.
+* I'm currently exploring AI projects, creating a learning lab and  learning new technologies 👨‍💻.
 
-* I like emerging startup projects, participating in different areas if possible.
+* I like emerging startup projects, participating in different areas if possible ⚡.
 
-* I like dogs, nature, and caring for the environment. Anything I can do is fine 😄.
+* I love dogs, nature, and caring for the environment. So anything I can do to contribute in this regard is a good thing 🌱.
 
  
