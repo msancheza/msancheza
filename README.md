@@ -14,5 +14,7 @@ Clouds Providers: AWS, DigitalOcean, Azure
  
 ### Find me here too:
 
+<img width="1536" height="1024" alt="138ff27d-c295-4ea1-a525-96c353ae5183" src="https://github.com/user-attachments/assets/0f7cf9cb-f5b6-405a-b8fc-5b14eebbe677" />
+
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
