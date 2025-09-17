@@ -13,3 +13,6 @@ Clouds Providers: AWS, DigitalOcean, Azure
 
  
 ### Find me here too:
+
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
