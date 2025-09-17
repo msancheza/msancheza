@@ -1,4 +1,4 @@
-## I'm a Systems Engineer: A Full Stack Software Engineer 👋 
+## Full Stack Software Engineer 👋 
 
 🤔 I've learned several languages, I like Python the most at the moment. Here are some frameworks and languages ​​I’ve previously explored: Angular, React, NextJs, Flutter, Swift, TensorFlow, Keras.
 Database: Postgress, SQL, FirebaseDB Realtime.
