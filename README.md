@@ -1,16 +1,14 @@
-## Hi there 👋
+## Full-Stack Software Developer 👋
 
-<!--
-**msancheza/msancheza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer: A Full Stack Software Engineer
 
-Here are some ideas to get you started:
+🤔 I've learned several languages, I like Python the most at the moment. Here are some frameworks and languages ​​I’ve previously explored: Angular, React, NextJs, Flutter, Swift, TensorFlow, Keras.
+Database: Postgress, SQL, FirebaseDB Realtime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm currently exploring AI projects, creating a learning lab and  learning new technologies.
+
+* I like emerging startup projects, participating in different areas if possible.
+
+* I like dogs, nature, and caring for the environment. Anything I can do is fine 😄.
+
+ 
