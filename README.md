@@ -13,7 +13,6 @@ Clouds Providers: AWS, DigitalOcean, Azure
 
 [![An image of @msancheza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msancheza)](https://holopin.io/@msancheza)
 
-<img width="750" height="500" alt="138ff27d-c295-4ea1-a525-96c353ae5183" src="https://github.com/user-attachments/assets/0f7cf9cb-f5b6-405a-b8fc-5b14eebbe677" />
 
  
 ### Find me here too:
